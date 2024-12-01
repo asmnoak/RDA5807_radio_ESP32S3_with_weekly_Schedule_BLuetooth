@@ -43,7 +43,7 @@ BLEでは、セントラル（ここではPCのブラウザ）とペリフェラ
  ・Xtal発振器（32768Hz）、コンデンサ、抵抗類、オーディオジャック、配線類<br>
 </p>
 <p>
-<img src="./xiao_esp32s3_rda5807_ble.jpg" width="480" height="480"><br>
+<img src="./xiao_esp32s3_rda5807_ble.JPG" width="480" height="480"><br>
 専用の基板（XIAO_ESP32C3の物を流用。<a href="https://www.pcbway.com/project/shareproject/RDA5807_FM_DSP_radio_with_weekly_schedule_which_is_controlled_by_XIAO_ESP32C3_dbd09236.html">基板のデータ</a>）に実装。右側がXIAO ESP32S3、左側がRDA5807FP。
 </p>
 <p><strong>接続</strong><br>
