@@ -1,57 +1,57 @@
-<p><H3>ï¿½Tï¿½ÔƒXï¿½Pï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Â”\ï¿½ï¿½RDA5807 FM DSPï¿½ï¿½ï¿½Wï¿½I(Bluetooth LEï¿½ï¿½)</H3></p>
+<p><H3>TŠÔƒXƒPƒWƒ…[ƒ‹‚ª‰Â”\‚ÈRDA5807 FM DSPƒ‰ƒWƒI(Bluetooth LE”Å)</H3></p>
 <p>
-ï¿½\ï¿½ï¿½Bluetoothï¿½ÊMï¿½É‚ï¿½ï¿½Ý’è‚µï¿½ï¿½ï¿½Tï¿½ÔƒXï¿½Pï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ÉŠï¿½Ã‚ï¿½ï¿½Ä”Ô‘gï¿½ð’®‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½FMï¿½ï¿½ï¿½Wï¿½Iï¿½ð»ì‚µï¿½ï¿½ï¿½Ì‚ÅÐ‰î‚·ï¿½ï¿½B<br>
-ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½ï¿½RDA5807FPï¿½ÍARDAï¿½}ï¿½Cï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½FMï¿½Î‰ï¿½ï¿½ï¿½DSPï¿½ï¿½ï¿½Wï¿½IICï¿½Å‚ï¿½ï¿½ï¿½B<a href="https://www.aitendo.com/product/4797">ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½fï¿½[ï¿½^ï¿½Vï¿½[ï¿½gï¿½ÌŽQï¿½Æƒï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½j</a>ï¿½Éwï¿½ï¿½ï¿½Å‚ï¿½<br>
-SOP16ï¿½sï¿½ï¿½ï¿½Ìƒpï¿½bï¿½Pï¿½[ï¿½Wï¿½ÅAï¿½ï¿½ï¿½ÂŽgï¿½pï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÄÏ‚Þ‚Ì‚ÅŽgï¿½ï¿½ï¿½Õ‚ï¿½ï¿½B<br>
-I2Cï¿½Cï¿½ï¿½ï¿½^ï¿½[ï¿½tï¿½Fï¿½[ï¿½Xï¿½ÅƒRï¿½ï¿½ï¿½gï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½é‚ªï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Å‚ÍAï¿½Ú•Wï¿½@ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚½ï¿½ß‚ÉABluetooth LEï¿½iBLEï¿½jï¿½@ï¿½\ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½WiFiï¿½@ï¿½\ï¿½jï¿½ð“‹Ú‚ï¿½ï¿½ï¿½<br>
-<a href="https://www.switch-science.com/products/8968">Seeed Studio XIAO ESP32S3</a>ï¿½Æ‘gï¿½Ýï¿½ï¿½í‚¹ï¿½ï¿½ï¿½B<br>
-RDA5807FPï¿½Í“dï¿½ï¿½3.3Vï¿½Å“ï¿½ï¿½ì‚µï¿½Aï¿½Kï¿½vï¿½È“dï¿½ï¿½ï¿½ï¿½20mAï¿½ï¿½ï¿½xï¿½È‚Ì‚ÅAXIAO ESP32S3ï¿½i3V3ï¿½[ï¿½qï¿½jï¿½ï¿½ï¿½ç‹Ÿï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½i5Vï¿½Í•sï¿½Âjï¿½B<br>
-XIAO ESP32S3ï¿½Ìï¿½ï¿½ï¿½É‚ï¿½BLEï¿½@ï¿½\ï¿½Ìƒvï¿½ï¿½ï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½uGATTï¿½vï¿½ð—˜—pï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ÌÛAï¿½ÊMï¿½ÌŽï¿½iï¿½Æ‚ï¿½ï¿½ÄAChromeï¿½È‚Ç‚ï¿½Webï¿½uï¿½ï¿½ï¿½Eï¿½Uï¿½ÉŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½uWeb bluetooth APIï¿½vï¿½ï¿½ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½B<br>
-ï¿½Jï¿½ï¿½ï¿½ï¿½Arduino IDE 2.1ï¿½Åsï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+—\‚ßBluetooth’ÊM‚É‚æ‚èÝ’è‚µ‚½TŠÔƒXƒPƒWƒ…[ƒ‹‚ÉŠî‚Ã‚¢‚Ä”Ô‘g‚ð’®‚­‚±‚Æ‚ª‚Å‚«‚éFMƒ‰ƒWƒI‚ð»ì‚µ‚½‚Ì‚ÅÐ‰î‚·‚éB<br>
+—˜—p‚µ‚½RDA5807FP‚ÍARDAƒ}ƒCƒNƒ»‚ÌFM‘Î‰ž‚ÌDSPƒ‰ƒWƒIIC‚Å‚ ‚éB<a href="https://www.aitendo.com/product/4797">ˆÀ‰¿iƒf[ƒ^ƒV[ƒg‚ÌŽQÆƒŠƒ“ƒN‚ ‚èj</a>‚Éw“ü‚Å‚«<br>
+SOP16ƒsƒ“‚ÌƒpƒbƒP[ƒW‚ÅA‚©‚ÂŽg—p•”•i‚ª­‚È‚­‚ÄÏ‚Þ‚Ì‚ÅŽg‚¢ˆÕ‚¢B<br>
+I2CƒCƒ“ƒ^[ƒtƒF[ƒX‚ÅƒRƒ“ƒgƒ[ƒ‹‚·‚é‚ªA‚±‚±‚Å‚ÍA–Ú•W‹@”\‚ðŽÀŒ»‚·‚é‚½‚ß‚ÉABluetooth LEiBLEj‹@”\i‚¨‚æ‚ÑWiFi‹@”\j‚ð“‹Ú‚µ‚½<br>
+<a href="https://www.switch-science.com/products/8968">Seeed Studio XIAO ESP32S3</a>‚Æ‘g‚Ý‡‚í‚¹‚½B<br>
+RDA5807FP‚Í“dˆ³3.3V‚Å“®ì‚µA•K—v‚È“d—¬‚Í20mA’ö“x‚È‚Ì‚ÅAXIAO ESP32S3i3V3’[Žqj‚©‚ç‹Ÿ‹‹‚Å‚«‚éi5V‚Í•s‰ÂjB<br>
+XIAO ESP32S3‚Ì§Œä‚É‚ÍBLE‹@”\‚Ìƒvƒƒtƒ@ƒCƒ‹‚Å‚ ‚éuGATTv‚ð—˜—p‚µ‚Ä‚¢‚éB‚»‚ÌÛA’ÊM‚ÌŽè’i‚Æ‚µ‚ÄAChrome‚È‚Ç‚ÌWebƒuƒ‰ƒEƒU‚ÉŽÀ‘•‚³‚ê‚½uWeb bluetooth APIv‚ðŽg—p‚·‚éB<br>
+ŠJ”­‚ÍArduino IDE 2.1‚Ås‚Á‚½B<br>
 
-ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½RDA5807ï¿½pï¿½Ìƒï¿½ï¿½Cï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ÍA<a href="https://github.com/pu2clr/RDA5807">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ipu2clr at GitHubï¿½j</a>ï¿½É‚ï¿½ï¿½ï¿½B<a href="https://pu2clr.github.io/RDA5807/#schematic">ï¿½ï¿½Hï¿½}ï¿½ï¿½</a>ï¿½ï¿½ï¿½fï¿½Ú‚ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ÅŽQï¿½lï¿½É‚ï¿½ï¿½ï¿½Æ—Ç‚ï¿½ï¿½B<br>
-ï¿½È‚ï¿½ï¿½AArduino IDEï¿½Ìƒï¿½ï¿½Cï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Ç—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½Xï¿½gï¿½[ï¿½ï¿½ï¿½Â”\ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+Žg—p‚µ‚½RDA5807—p‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ÍA<a href="https://github.com/pu2clr/RDA5807">‚±‚¿‚çipu2clr at GitHubj</a>‚É‚ ‚éB<a href="https://pu2clr.github.io/RDA5807/#schematic">‰ñ˜H}“™</a>‚àŒfÚ‚³‚ê‚Ä‚¢‚é‚Ì‚ÅŽQl‚É‚·‚é‚Æ—Ç‚¢B<br>
+‚È‚¨AArduino IDE‚Ìƒ‰ƒCƒuƒ‰ƒŠŠÇ—‚©‚ç‚àƒCƒ“ƒXƒg[ƒ‹‰Â”\‚Å‚ ‚éB<br>
 </p>
 <p>
-BLEï¿½Å‚ÍAï¿½Zï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½PCï¿½Ìƒuï¿½ï¿½ï¿½Eï¿½Uï¿½jï¿½Æƒyï¿½ï¿½ï¿½tï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½iESP32S3ï¿½jï¿½Ô‚Å’ÊMï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Bï¿½yï¿½ï¿½ï¿½tï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ÍAGATTï¿½Å’ï¿½`ï¿½ï¿½ï¿½ê‚½ï¿½uï¿½fï¿½[ï¿½^ï¿½\ï¿½ï¿½ï¿½vï¿½ÌƒTï¿½[ï¿½rï¿½Xï¿½ï¿½ï¿½\ï¿½zï¿½ï¿½<br>ï¿½Aï¿½hï¿½oï¿½^ï¿½Cï¿½Yï¿½iAdvertiseï¿½jï¿½ï¿½Ô‚ÅŽï¿½Mï¿½Ò‚ï¿½ï¿½ï¿½ï¿½ï¿½B
-ï¿½Zï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍAï¿½Aï¿½hï¿½oï¿½^ï¿½Cï¿½Yï¿½ï¿½Ô‚Ìƒyï¿½ï¿½ï¿½tï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄÚ‘ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½B<br>
-ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ÍAï¿½Ö‹Xï¿½ï¿½Aï¿½uï¿½fï¿½[ï¿½^ï¿½\ï¿½ï¿½ï¿½vï¿½Æ‚ï¿½ï¿½ÄAï¿½uGATTï¿½vï¿½ï¿½"Current time service"ï¿½iUUIDï¿½ÅŽï¿½ï¿½Ê‚ï¿½ï¿½ï¿½jï¿½Ì’ï¿½`ï¿½ð—¬—pï¿½ï¿½ï¿½ï¿½ï¿½B<br>
-ï¿½Tï¿½[ï¿½rï¿½Xï¿½ÌƒLï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½^ï¿½ï¿½ï¿½Xï¿½eï¿½Bï¿½bï¿½Nï¿½Æƒfï¿½Bï¿½Xï¿½Nï¿½ï¿½ï¿½vï¿½^ï¿½ÍƒZï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½iï¿½wï¿½ï¿½ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½ï¿½READ/WRITEï¿½Å‚ï¿½ï¿½ï¿½Ì‚ÅAï¿½eï¿½Xï¿½ï¿½ï¿½Lï¿½ÉŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú“Iï¿½Å—ï¿½ï¿½pï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B
+BLE‚Å‚ÍAƒZƒ“ƒgƒ‰ƒ‹i‚±‚±‚Å‚ÍPC‚Ìƒuƒ‰ƒEƒUj‚ÆƒyƒŠƒtƒFƒ‰ƒ‹iESP32S3jŠÔ‚Å’ÊM‚ðs‚¤BƒyƒŠƒtƒFƒ‰ƒ‹‘¤‚Å‚ÍAGATT‚Å’è‹`‚³‚ê‚½uƒf[ƒ^\‘¢v‚ÌƒT[ƒrƒX‚ð\’z‚µ<br>ƒAƒhƒoƒ^ƒCƒYiAdvertisejó‘Ô‚ÅŽóM‘Ò‚¿‚·‚éB
+ƒZƒ“ƒgƒ‰ƒ‹‘¤‚©‚ç‚ÍAƒAƒhƒoƒ^ƒCƒYó‘Ô‚ÌƒyƒŠƒtƒFƒ‰ƒ‹‚ðƒXƒLƒƒƒ“‚µ‚ÄÚ‘±—v‹‚ðs‚¤B<br>
+‚±‚±‚Å‚ÍA•Ö‹XãAuƒf[ƒ^\‘¢v‚Æ‚µ‚ÄAuGATTv‚Ì"Current time service"iUUID‚ÅŽ¯•Ê‚·‚éj‚Ì’è‹`‚ð—¬—p‚µ‚½B
+ƒT[ƒrƒX‚ÌƒLƒƒƒ‰ƒNƒ^ƒŠƒXƒeƒBƒbƒN‚ÆƒfƒBƒXƒNƒŠƒvƒ^‚ÍƒZƒ“ƒgƒ‰ƒ‹iŽwŽ¦j‘¤‚©‚çREAD/WRITE‚Å‚«‚é‚Ì‚ÅAŠeX‰º‹L‚ÉŽ¦‚µ‚½–Ú“I‚Å—˜—p‚µ‚Ä‚¢‚éB
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;ï¿½Tï¿½[ï¿½rï¿½X:&nbsp;Current time service&nbsp;ï¿½\<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½^ï¿½ï¿½ï¿½Xï¿½eï¿½Bï¿½bï¿½N1&nbsp;ï¿½\&nbsp;XIAO ESP32S3ï¿½Ì‘ï¿½ï¿½ï¿½É—ï¿½ï¿½p<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ï¿½fï¿½Bï¿½Xï¿½Nï¿½ï¿½ï¿½vï¿½^1&nbsp;ï¿½\&nbsp;ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÝŽï¿½ï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½Ý’è‚¨ï¿½ï¿½ï¿½DSPï¿½ï¿½ï¿½Wï¿½Iï¿½Ì‘ï¿½ï¿½ï¿½Aï¿½uï¿½ï¿½ï¿½Eï¿½Uï¿½É•\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½éƒ‰ï¿½Wï¿½Iï¿½{ï¿½^ï¿½ï¿½ï¿½Ì—jï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½Æƒï¿½ï¿½Wï¿½Iï¿½Ç‘Iï¿½ï¿½ï¿½É—ï¿½ï¿½p<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½^ï¿½ï¿½ï¿½Xï¿½eï¿½Bï¿½bï¿½N2&nbsp;ï¿½\&nbsp;ï¿½Ç‚Ýï¿½ï¿½ÝŽï¿½ï¿½Fï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½jï¿½ï¿½ï¿½ÌƒXï¿½Pï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ñ‹ŸAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÝŽï¿½ï¿½Fï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½Wï¿½Iï¿½Ç‚Ìï¿½ñ‚¨‚ï¿½Ñ—jï¿½ï¿½ï¿½ÌƒXï¿½Pï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ÌÝ’ï¿½<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½^ï¿½ï¿½ï¿½Xï¿½eï¿½Bï¿½bï¿½N3&nbsp;ï¿½\&nbsp;ï¿½Ç‚Ýï¿½ï¿½ÝŽï¿½ï¿½Fï¿½ï¿½ï¿½Wï¿½Iï¿½Ç‚Ìï¿½ï¿½ï¿½ï¿½<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ƒT[ƒrƒX:&nbsp;Current time service&nbsp;\<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ƒLƒƒƒ‰ƒNƒ^ƒŠƒXƒeƒBƒbƒN1&nbsp;\&nbsp;XIAO ESP32S3‚Ì‘€ì‚É—˜—p<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ƒfƒBƒXƒNƒŠƒvƒ^1&nbsp;\&nbsp;‘‚«ž‚ÝŽžFŽžÝ’è‚¨‚æ‚ÑDSPƒ‰ƒWƒI‚Ì‘€ìAƒuƒ‰ƒEƒU‚É•\Ž¦‚³‚ê‚Ä‚¢‚éƒ‰ƒWƒIƒ{ƒ^ƒ“‚Ì—j“ú‘I‘ð‚Æƒ‰ƒWƒI‹Ç‘I‘ð‚É—˜—p<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ƒLƒƒƒ‰ƒNƒ^ƒŠƒXƒeƒBƒbƒN2&nbsp;\&nbsp;“Ç‚Ýž‚ÝŽžF‘I‘ð‚³‚ê‚½—j“ú‚ÌƒXƒPƒWƒ…[ƒ‹‚Ìî•ñ‚ð’ñ‹ŸA‘‚«ž‚ÝŽžF‘I‘ð‚³‚ê‚½ƒ‰ƒWƒI‹Ç‚Ìî•ñ‚¨‚æ‚Ñ—j“ú‚ÌƒXƒPƒWƒ…[ƒ‹‚ÌÝ’è<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ƒLƒƒƒ‰ƒNƒ^ƒŠƒXƒeƒBƒbƒN3&nbsp;\&nbsp;“Ç‚Ýž‚ÝŽžFƒ‰ƒWƒI‹Ç‚Ìî•ñ‚ð’ñ‹Ÿ<br>
 </p>
-<p><strong>ï¿½@ï¿½\</strong><br>
- ï¿½Eï¿½Tï¿½ÔƒXï¿½Pï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½Ý’ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½jï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ÉAï¿½Ô‘gï¿½ÌŠJï¿½nï¿½ï¿½ï¿½ÔAï¿½Ô‘gï¿½Ì’ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Wï¿½Iï¿½ÇAï¿½ï¿½ï¿½ÊAï¿½Ô‘gï¿½Iï¿½ï¿½ï¿½ï¿½ON/OFFï¿½ï¿½Ý’è‚·ï¿½ï¿½B<br>
- ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Webï¿½uï¿½ï¿½ï¿½Eï¿½Uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½ÅAXIAO ESP32S3ï¿½É“`ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½bï¿½Nï¿½ÉÝ’è‚·ï¿½ï¿½B<br>
- ï¿½Eï¿½Tï¿½ÔƒXï¿½Pï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ÌÝ’ï¿½ÍAPCï¿½Aï¿½Xï¿½}ï¿½zï¿½ï¿½ï¿½Ìƒuï¿½ï¿½ï¿½Eï¿½Uï¿½ï¿½ï¿½ï¿½XIAO ESP32S3ï¿½ÉƒAï¿½Nï¿½Zï¿½Xï¿½ï¿½ï¿½Äsï¿½ï¿½ï¿½B<br>
- ï¿½Eï¿½ï¿½ï¿½lï¿½ÉAï¿½ï¿½ï¿½Wï¿½Iï¿½Ç‚Ì‘Iï¿½ÇAï¿½ï¿½ï¿½Ê‚Ì•ÏXï¿½Aï¿½ï¿½ï¿½Wï¿½Iï¿½ï¿½ON/OFFï¿½ÍAï¿½uï¿½ï¿½ï¿½Eï¿½Uï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
- ï¿½Eï¿½Tï¿½ÔƒXï¿½Pï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ÌÝ’ï¿½É‚ï¿½ï¿½Aï¿½ÚŠoï¿½Ü‚ï¿½ï¿½@ï¿½\ï¿½Aï¿½Xï¿½ï¿½ï¿½[ï¿½vï¿½@ï¿½\ï¿½ï¿½ï¿½Â”\ï¿½Å‚ï¿½ï¿½ï¿½B<br>
- ï¿½EOLEDï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½ÉAï¿½ï¿½ï¿½tï¿½Aï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÊAï¿½ï¿½ï¿½Wï¿½Iï¿½ï¿½ON/OFFï¿½Aï¿½ï¿½Mï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
- ï¿½EXIAO ESP32S3ï¿½Ì“ï¿½ï¿½ï¿½Ìƒsï¿½ï¿½ï¿½Éƒ^ï¿½Nï¿½gï¿½Xï¿½Cï¿½bï¿½`ï¿½ï¿½Ú‘ï¿½ï¿½ï¿½ï¿½ï¿½ÎAï¿½Iï¿½ÇAï¿½ï¿½ï¿½Ê’ï¿½ï¿½ßAï¿½ï¿½ï¿½Wï¿½Iï¿½ï¿½ON/OFFï¿½ï¿½ï¿½Â”\ï¿½Å‚ï¿½ï¿½ï¿½B<br>
- ï¿½Eï¿½ï¿½Mï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Ì”ÍˆÍ‚ÍA76ï¿½|108MHzï¿½ÅAï¿½ï¿½ï¿½Cï¿½hFMï¿½Î‰ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
- ï¿½Eï¿½oï¿½Í‚ÍƒIï¿½[ï¿½fï¿½Bï¿½Iï¿½Wï¿½ï¿½ï¿½bï¿½Nï¿½oï¿½Rï¿½Åï¿½ï¿½ï¿½ï¿½aï¿½ÌƒXï¿½sï¿½[ï¿½Jï¿½[ï¿½iï¿½Xï¿½eï¿½ï¿½ï¿½Iï¿½jï¿½ï¿½Ú‘ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+<p><strong>‹@”\</strong><br>
+ ETŠÔƒXƒPƒWƒ…[ƒ‹‚ðÝ’è‚Å‚«‚éB—j“ú‚²‚Æ‚ÉA”Ô‘g‚ÌŠJŽnŽžŠÔA”Ô‘g‚Ì’·‚³Aƒ‰ƒWƒI‹ÇA‰¹—ÊA”Ô‘gI—¹ŒãON/OFF‚ðÝ’è‚·‚éB<br>
+ EŽž‚ÍWebƒuƒ‰ƒEƒU‘¤‚©‚ç‚Ì‘€ì‚ÅAXIAO ESP32S3‚É“`‚¦A“à•”ƒNƒƒbƒN‚ÉÝ’è‚·‚éB<br>
+ ETŠÔƒXƒPƒWƒ…[ƒ‹‚ÌÝ’è‚ÍAPCAƒXƒ}ƒz“™‚Ìƒuƒ‰ƒEƒU‚©‚çXIAO ESP32S3‚ÉƒAƒNƒZƒX‚µ‚Äs‚¤B<br>
+ E“¯—l‚ÉAƒ‰ƒWƒI‹Ç‚Ì‘I‹ÇA‰¹—Ê‚Ì•ÏXAƒ‰ƒWƒI‚ÌON/OFF‚ÍAƒuƒ‰ƒEƒU‚©‚çs‚¤‚±‚Æ‚ª‚Å‚«‚éB<br>
+ ETŠÔƒXƒPƒWƒ…[ƒ‹‚ÌÝ’è‚É‚æ‚èA–ÚŠo‚Ü‚µ‹@”\AƒXƒŠ[ƒv‹@”\‚ª‰Â”\‚Å‚ ‚éB<br>
+ EOLED•\Ž¦‘•’u‚ÉA“ú•tA—j“úAŽžA‰¹—ÊAƒ‰ƒWƒI‚ÌON/OFFAŽóMŽü”g”‚ð•\Ž¦‚·‚éB<br>
+ EXIAO ESP32S3‚Ì“Á’è‚Ìƒsƒ“‚Éƒ^ƒNƒgƒXƒCƒbƒ`‚ðÚ‘±‚·‚ê‚ÎA‘I‹ÇA‰¹—Ê’²ßAƒ‰ƒWƒI‚ÌON/OFF‚ª‰Â”\‚Å‚ ‚éB<br>
+ EŽóMŽü”g”‚Ì”ÍˆÍ‚ÍA76|108MHz‚ÅAƒƒCƒhFM‘Î‰ž‚Å‚ ‚éB<br>
+ Eo—Í‚ÍƒI[ƒfƒBƒIƒWƒƒƒbƒNŒo—R‚Å¬ŒûŒa‚ÌƒXƒs[ƒJ[iƒXƒeƒŒƒIj‚ðÚ‘±‚·‚éB<br>
 </p>
-<p><strong>H/Wï¿½\ï¿½ï¿½</strong><br>
- ï¿½ESeeed Studio XIAO ESP32S3 - ï¿½Rï¿½ï¿½ï¿½gï¿½ï¿½ï¿½[ï¿½ï¿½<br>
- ï¿½EI2Cï¿½Ú‘ï¿½&nbsp; RDA5807FP<br>
- ï¿½EI2Cï¿½Ú‘ï¿½&nbsp; SSD1306 64x32 OLEDï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½u<br>
- ï¿½EXtalï¿½ï¿½ï¿½Uï¿½ï¿½i32768Hzï¿½jï¿½Aï¿½Rï¿½ï¿½ï¿½fï¿½ï¿½ï¿½Tï¿½Aï¿½ï¿½Rï¿½ÞAï¿½Iï¿½[ï¿½fï¿½Bï¿½Iï¿½Wï¿½ï¿½ï¿½bï¿½Nï¿½Aï¿½zï¿½ï¿½ï¿½ï¿½<br>
+<p><strong>H/W\¬</strong><br>
+ ESeeed Studio XIAO ESP32S3 - ƒRƒ“ƒgƒ[ƒ‰<br>
+ EI2CÚ‘±&nbsp; RDA5807FP<br>
+ EI2CÚ‘±&nbsp; SSD1306 64x32 OLED•\Ž¦‘•’u<br>
+ EXtal”­UŠíi32768HzjAƒRƒ“ƒfƒ“ƒTA’ïR—ÞAƒI[ƒfƒBƒIƒWƒƒƒbƒNA”zü—Þ<br>
 </p>
 <p>
 <img src="./xiao_esp32s3_rda5807_ble.jpg" width="480" height="480"><br>
-ï¿½ï¿½pï¿½ÌŠï¿½ÂiXIAO_ESP32C3ï¿½Ì•ï¿½ï¿½ð—¬—pï¿½B<a href="https://www.pcbway.com/project/shareproject/RDA5807_FM_DSP_radio_with_weekly_schedule_which_is_controlled_by_XIAO_ESP32C3_dbd09236.html">ï¿½ï¿½Â‚Ìƒfï¿½[ï¿½^</a>ï¿½jï¿½ÉŽï¿½ï¿½ï¿½ï¿½Bï¿½Eï¿½ï¿½ï¿½ï¿½XIAO ESP32S3ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½RDA5807FPï¿½B
+ê—p‚ÌŠî”ÂiXIAO_ESP32C3‚Ì•¨‚ð—¬—pB<a href="https://www.pcbway.com/project/shareproject/RDA5807_FM_DSP_radio_with_weekly_schedule_which_is_controlled_by_XIAO_ESP32C3_dbd09236.html">Šî”Â‚Ìƒf[ƒ^</a>j‚ÉŽÀ‘•B‰E‘¤‚ªXIAO ESP32S3A¶‘¤‚ªRDA5807FPB
 </p>
-<p><strong>ï¿½Ú‘ï¿½</strong><br>
-ï¿½eï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½ÌÚ‘ï¿½ï¿½ÍˆÈ‰ï¿½ï¿½Ì’Ê‚ï¿½B<br>
+<p><strong>Ú‘±</strong><br>
+ŠeƒRƒ“ƒ|[ƒlƒ“ƒg‚ÌÚ‘±‚ÍˆÈ‰º‚Ì’Ê‚èB<br>
 <p>
 <table> 
 <tr>
-<td>I2C&nbsp;</td><td>XIAO(ï¿½ï¿½ï¿½ï¿½)</td>
+<td>I2C&nbsp;</td><td>XIAO(Šù’è)</td>
 </tr>
 <tr>
 <td>SCK</td><td>GPIO6</td>
@@ -64,13 +64,13 @@ BLEï¿½Å‚ÍAï¿½Zï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½PCï¿½Ìƒuï¿½ï¿½ï¿½Eï
 <p>
 <table> 
 <tr>
-<td>ï¿½^ï¿½Nï¿½gï¿½Xï¿½Cï¿½bï¿½`</td><td>XIAO</td>
+<td>ƒ^ƒNƒgƒXƒCƒbƒ`</td><td>XIAO</td>
 </tr>
 <tr>
-<td>ï¿½ï¿½ï¿½ï¿½</td><td>GPIO2</td>
+<td>‰¹—Ê</td><td>GPIO2</td>
 </tr>
 <tr>
-<td>ï¿½Iï¿½ï¿½</td><td>GPIO3</td>
+<td>‘I‹Ç</td><td>GPIO3</td>
 </tr>
 <tr>
 <td>PON/POFF</td><td>GPIO4</td>
@@ -79,79 +79,79 @@ BLEï¿½Å‚ÍAï¿½Zï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½PCï¿½Ìƒuï¿½ï¿½ï¿½Eï
 </p>
 </p>
 <p>
-I2Cï¿½ÌƒAï¿½hï¿½ï¿½ï¿½X
+I2C‚ÌƒAƒhƒŒƒX
 <table> 
 <tr>
-<td>RDA5807FP</td><td>0x10&nbsp;or&nbsp;0x11&nbsp;ï¿½ï¿½ï¿½Cï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ÅŠï¿½ï¿½ï¿½</td>
+<td>RDA5807FP</td><td>0x10&nbsp;or&nbsp;0x11&nbsp;ƒ‰ƒCƒuƒ‰ƒŠ‚ÅŠù’è</td>
 </tr>
 <tr>
-<td>OLED</td><td>0x3C&nbsp;ï¿½ï¿½ï¿½ï¿½</td>
+<td>OLED</td><td>0x3C&nbsp;Šù’è</td>
 </tr>
 </table>
 </p>
-<p><strong>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@</strong><br>
-ï¿½uï¿½ï¿½ï¿½Eï¿½Uï¿½ï¿½ï¿½ï¿½A"Web_Bluetooth_Radio_Sched.html" ï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½ÉƒAï¿½Nï¿½Zï¿½Xï¿½iï¿½hï¿½ï¿½ï¿½bï¿½Oï¿½ï¿½ï¿½hï¿½ï¿½ï¿½bï¿½vï¿½jï¿½ï¿½ï¿½ï¿½ÆˆÈ‰ï¿½ï¿½Ì‰ï¿½Ê‚ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
-ï¿½ï¿½ï¿½ìŽžï¿½É‚Í–ï¿½ï¿½ï¿½A"Connect to ESP32"ï¿½{ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAESP32ï¿½ÉÚ‘ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½BESP32ï¿½Æ‚ÌÚ‘ï¿½ï¿½Í–ï¿½30ï¿½bï¿½ÛŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÅAï¿½ï¿½ï¿½ÌŠÔ‚É‘ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½B<br>
-"Connect to ESP32"ï¿½{ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆABluetoothï¿½fï¿½oï¿½Cï¿½Xï¿½ÌƒXï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½Bï¿½ï¿½ï¿½hï¿½Eï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½"ESP32S3_X"ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
-ï¿½Ú‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"Set current time to ESP32 RTC"ï¿½Aï¿½ï¿½ï¿½ÊAï¿½Iï¿½ÇAï¿½dï¿½ï¿½ON/OFFï¿½È‚Ç‚Ì‘ï¿½ï¿½ï¿½{ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‚È‚ï¿½B<br>
-"Set current time to ESP32 RTC"ï¿½{ï¿½^ï¿½ï¿½ï¿½ÍAESP32ï¿½ÉŒï¿½ï¿½ÝŽï¿½ï¿½ï¿½ï¿½ï¿½Ý’è‚·ï¿½é‚½ï¿½ßAï¿½dï¿½ï¿½ONï¿½ï¿½ï¿½Éˆï¿½ñ‚¾‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
-ï¿½mï¿½ï¿½ï¿½Ón"ESP32S3_X"ï¿½ï¿½PCï¿½ï¿½ï¿½Ìƒfï¿½oï¿½Cï¿½Xï¿½ï¿½ï¿½Xï¿½gï¿½ÉÚ‚ï¿½ÆÚ‘ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½Ì‚ÅAï¿½ï¿½ï¿½Ìê‡ï¿½Íƒfï¿½oï¿½Cï¿½Xï¿½ï¿½ï¿½Xï¿½gï¿½ï¿½ï¿½ï¿½íœï¿½ï¿½ï¿½ï¿½B
+<p><strong>‘€ì•û–@</strong><br>
+ƒuƒ‰ƒEƒU‚©‚çA"Web_Bluetooth_Radio_Sched.html" ƒtƒ@ƒCƒ‹‚ÉƒAƒNƒZƒXiƒhƒ‰ƒbƒO•ƒhƒƒbƒvj‚·‚é‚ÆˆÈ‰º‚Ì‰æ–Ê‚ª•\Ž¦‚³‚ê‚éB<br>
+‘€ìŽž‚É‚Í–ˆ‰ñA"Connect to ESP32"ƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚ÄAESP32‚ÉÚ‘±‚·‚é•K—v‚ª‚ ‚éBESP32‚Æ‚ÌÚ‘±‚Í–ñ30•bˆÛŽ‚³‚ê‚é‚Ì‚ÅA‚±‚ÌŠÔ‚É‘€ì‚ðs‚¤B<br>
+"Connect to ESP32"ƒ{ƒ^ƒ“‚ð‰Ÿ‚·‚ÆABluetoothƒfƒoƒCƒX‚ÌƒXƒLƒƒƒ“ƒEƒBƒ“ƒhƒE‚ª•\Ž¦‚³‚ê‚é‚Ì‚Å"ESP32S3_X"‚ð‘I‘ð‚·‚éB<br>
+Ú‘±‚³‚ê‚é‚Æ"Set current time to ESP32 RTC"A‰¹—ÊA‘I‹ÇA“dŒ¹ON/OFF‚È‚Ç‚Ì‘€ìƒ{ƒ^ƒ“‚ª‰Ÿ‚¹‚é‚æ‚¤‚É‚È‚éB<br>
+"Set current time to ESP32 RTC"ƒ{ƒ^ƒ“‚ÍAESP32‚ÉŒ»ÝŽž‚ðÝ’è‚·‚é‚½‚ßA“dŒ¹ONŽž‚Éˆê‰ñ‚¾‚¯‰Ÿ‚·•K—v‚ª‚ ‚éB<br>
+m’ˆÓnPC‘¤‚ÌƒfƒoƒCƒXƒŠƒXƒg‚É"ESP32S3_X"‚ª“o˜^‚³‚ê‚éƒAƒNƒZƒX‚Å‚«‚È‚­‚È‚é‚Ì‚ÅA‚»‚Ìê‡‚ÍƒfƒoƒCƒXƒŠƒXƒg‚©‚ç"ESP32S3_X"‚ðíœ‚·‚éB
 
 <p>
 <img src="./weekly_schedule_ble.png" width="900" height="560"><br>
 </p>
 </p>
-<p><strong>FMï¿½Ç‚Ìï¿½ï¿½ï¿½ï¿½Ý’ï¿½</strong><br>
-ï¿½Åï¿½ï¿½ÉAï¿½nï¿½ï¿½ÌŽï¿½Mï¿½Â”\ï¿½ï¿½FMï¿½Ç‚Ìï¿½ï¿½iï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Æ‹Ç–ï¿½ï¿½jï¿½ï¿½Ý’è‚·ï¿½ï¿½Kï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
-ï¿½Ü‚ï¿½ï¿½A"Radio Stations"ï¿½Ìƒï¿½ï¿½Wï¿½Iï¿½{ï¿½^ï¿½ï¿½ï¿½ï¿½"0"ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½bï¿½Nï¿½ï¿½ï¿½ï¿½Æ“ï¿½ï¿½Íˆï¿½Éï¿½ï¿½ï¿½ï¿½lï¿½iï¿½_ï¿½~ï¿½[ï¿½lï¿½jï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½<br>
-"ST0"ï¿½É‘ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½gï¿½ï¿½(MHz)ï¿½Æ‹Ç–ï¿½(ï¿½ï¿½ï¿½p5ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½)ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½A"Save Station Info"ï¿½{ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ•Û‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
-ï¿½Kï¿½vï¿½É‰ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½Wï¿½Iï¿½{ï¿½^ï¿½ï¿½ï¿½ï¿½"1"ï¿½ï¿½ï¿½ï¿½"6"ï¿½Ü‚ÅŒJï¿½ï¿½Ô‚ï¿½(ï¿½ï¿½ï¿½Wï¿½Iï¿½Ç‚Ì”Ôï¿½ï¿½É‚È‚ï¿½Bï¿½Å‘ï¿½7ï¿½ÇÝ’ï¿½Â”\)ï¿½B
+<p><strong>FM‹Ç‚Ì‰ŠúÝ’è</strong><br>
+Å‰‚ÉA’nˆæ‚ÌŽóM‰Â”\‚ÈFM‹Ç‚Ìî•ñiŽü”g”‚Æ‹Ç–¼j‚ðÝ’è‚·‚é•K—v‚ª‚ ‚éB<br>
+‚Ü‚¸A"Radio Stations"‚Ìƒ‰ƒWƒIƒ{ƒ^ƒ“‚Ì"0"‚ðƒNƒŠƒbƒN‚·‚é‚Æ“ü—Íˆæ‚É‰Šú’liƒ_ƒ~[’lj‚ª•\Ž¦‚³‚ê‚é‚Ì‚Å<br>
+"ST0"‚É‘±‚­AŽü”g”(MHz)‚Æ‹Ç–¼(”¼Šp5•¶Žš‚Ü‚Å)‚ðC³‚µA"Save Staion Info"ƒ{ƒ^ƒ“‚ð‰Ÿ‚·‚Æ•Û‘¶‚³‚ê‚éB<br>
+•K—v‚É‰ž‚¶‚ÄAƒ‰ƒWƒIƒ{ƒ^ƒ“‚Ì"1"‚©‚ç"6"‚Ü‚ÅŒJ‚è•Ô‚·(ƒ‰ƒWƒI‹Ç‚Ì”Ô†‚É‚È‚éBÅ‘å7‹ÇÝ’è‰Â”\)B
 </p>
-<p><strong>ï¿½Tï¿½ÔƒXï¿½Pï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ÌÝ’ï¿½ï¿½ï¿½@</strong><br>
-ï¿½Xï¿½Pï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Í—jï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ÉÝ’è‚·ï¿½ï¿½Bï¿½eï¿½jï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Ì’ï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŽwï¿½è‚·ï¿½ï¿½B<br>
-1ï¿½Gï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Ìï¿½ï¿½Ú‚ÍAï¿½Ô‘gï¿½Jï¿½nï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Wï¿½Iï¿½Çiï¿½Ôï¿½ï¿½jï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ôiï¿½ï¿½ï¿½jï¿½Aï¿½ï¿½ï¿½Êi0-8ï¿½jï¿½Aï¿½Ô‘gï¿½Iï¿½ï¿½ï¿½ï¿½É“dï¿½ï¿½OFFï¿½i1ï¿½ÌŽï¿½ï¿½jï¿½Å‚ï¿½ï¿½ï¿½B<br>
-ï¿½á‚¦ï¿½ÎA"22:00,1,119,2,1;"ï¿½ÍAï¿½uï¿½Ô‘gï¿½Jï¿½nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½22:00ï¿½Aï¿½ï¿½ï¿½Wï¿½Iï¿½Ç‚Ì”Ôï¿½ï¿½ï¿½1ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½119ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ê‚ï¿½2ï¿½Aï¿½Ô‘gï¿½Iï¿½ï¿½ï¿½ï¿½É“dï¿½ï¿½OFFï¿½vï¿½ï¿½ï¿½Ó–ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ÅŒï¿½ï¿½";"ï¿½Í‹ï¿½Ø‚è•¶ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
-"Schedule of Week"ï¿½Ì‰ï¿½ï¿½É‚ï¿½ï¿½ï¿½eï¿½jï¿½ï¿½ï¿½Ìƒï¿½ï¿½Wï¿½Iï¿½{ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½bï¿½Nï¿½ï¿½ï¿½ï¿½ÆAï¿½ï¿½ï¿½Ý‚Ì“ï¿½ï¿½eï¿½iï¿½Åï¿½ï¿½Íƒ_ï¿½~ï¿½[ï¿½lï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Í—Ìˆï¿½É•\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÅAï¿½ï¿½ï¿½ï¿½ï¿½ÒWï¿½ï¿½ï¿½ï¿½B<br>
-ï¿½ÒWï¿½ï¿½A"Save schedule day of  Week"ï¿½{ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½bï¿½Nï¿½ï¿½ï¿½ï¿½ÆAï¿½Ý’ï¿½ï¿½ï¿½eï¿½ï¿½ï¿½Û‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
-ï¿½Ý’ï¿½ï¿½ï¿½eï¿½ÉŒ`ï¿½ï¿½ï¿½ï¿½ÌŠÔˆá‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍAï¿½Gï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Û‘ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½È‚ï¿½ï¿½Aï¿½eï¿½Ô‘gï¿½ÌŠJï¿½nï¿½ï¿½ï¿½ï¿½ï¿½ÆIï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í•ï¿½ï¿½Pï¿½Ê‚Ådï¿½È‚ï¿½È‚ï¿½ï¿½æ‚¤ï¿½ÉŽwï¿½è‚·ï¿½é‚±ï¿½ÆB<br>
+<p><strong>TŠÔƒXƒPƒWƒ…[ƒ‹‚ÌÝ’è•û–@</strong><br>
+ƒXƒPƒWƒ…[ƒ‹‚Í—j“ú‚²‚Æ‚ÉÝ’è‚·‚éBŠe—j“ú‚²‚Æ‚Ì’®Žæ—\’è‚ðŽž‡‚ÉŽw’è‚·‚éB<br>
+1ƒGƒ“ƒgƒŠ‚Ì€–Ú‚ÍA”Ô‘gŠJŽnŽžAƒ‰ƒWƒI‹Çi”Ô†jA•ú‘—ŽžŠÔi•ªjA‰¹—Êi0-8jA”Ô‘gI—¹Œã‚É“dŒ¹OFFi1‚ÌŽžj‚Å‚ ‚éB<br>
+—á‚¦‚ÎA"22:00,1,119,2,1;"‚ÍAu”Ô‘gŠJŽnŽž‚Í22:00Aƒ‰ƒWƒI‹Ç‚Ì”Ô†‚Í1A•ú‘—ŽžŠÔ‚Í119•ªA‰¹—Ê‚Í2A”Ô‘gI—¹Œã‚É“dŒ¹OFFv‚ðˆÓ–¡‚·‚éBÅŒã‚Ì";"‚Í‹æØ‚è•¶Žš‚Å‚ ‚éB<br>
+"Schedule of Week"‚Ì‰º‚É‚ ‚éŠe—j“ú‚Ìƒ‰ƒWƒIƒ{ƒ^ƒ“‚ðƒNƒŠƒbƒN‚·‚é‚ÆAŒ»Ý‚Ì“à—eiÅ‰‚Íƒ_ƒ~[’lj‚ªA“ü—Í—Ìˆæ‚É•\Ž¦‚³‚ê‚é‚Ì‚ÅA‚»‚ê‚ð•ÒW‚·‚éB<br>
+•ÒWŒãA"Save schedule day of  Week"ƒ{ƒ^ƒ“‚ðƒNƒŠƒbƒN‚·‚é‚ÆAÝ’è“à—e‚ª•Û‘¶‚³‚ê‚éB<br>
+Ý’è“à—e‚ÉŒ`Ž®ã‚ÌŠÔˆá‚¢‚ª‚ ‚éê‡‚ÍAƒGƒ‰[‚ª•\Ž¦‚³‚êA•Û‘¶‚³‚ê‚È‚¢B‚È‚¨AŠe”Ô‘g‚ÌŠJŽnŽž‚ÆI—¹Žž‚Í•ª’PˆÊ‚Åd‚È‚ç‚È‚¢‚æ‚¤‚ÉŽw’è‚·‚é‚±‚ÆB<br>
 </p>
-<p><strong>ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ìƒï¿½ï¿½Oï¿½ï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½É‚Â‚ï¿½ï¿½ï¿½</strong><br>
-"Live Output"ï¿½ÉŽï¿½ï¿½sï¿½ï¿½ï¿½Ìƒï¿½ï¿½Oï¿½ï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½á‚¦ï¿½ÎAPCï¿½ï¿½ï¿½ï¿½BLEï¿½fï¿½oï¿½Cï¿½Xï¿½ï¿½ï¿½È‚ï¿½ï¿½ê‡ï¿½ÍˆÈ‰ï¿½ï¿½Ìƒï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
+<p><strong>ŽÀsŽž‚ÌƒƒOƒƒbƒZ[ƒW‚É‚Â‚¢‚Ä</strong><br>
+"Live Output"‚ÉŽÀsŽž‚ÌƒƒOƒƒbƒZ[ƒW‚ª•\Ž¦‚³‚ê‚éB—á‚¦‚ÎAPC‘¤‚ÉBLEƒfƒoƒCƒX‚ª‚È‚¢ê‡‚ÍˆÈ‰º‚ÌƒƒbƒZ[ƒW‚ª•\Ž¦‚³‚ê‚éB
 <p>
 "Requesting any Bluetooth Device...<br>
 Argh! NotFoundError: Bluetooth adapter not available."
 </p>
 </p>
-<p><strong>ï¿½Cï¿½ï¿½ï¿½Xï¿½gï¿½[ï¿½ï¿½</strong><br>
+<p><strong>ƒCƒ“ƒXƒg[ƒ‹</strong><br>
 <ol>
-<li>ï¿½Rï¿½[ï¿½hï¿½ï¿½ï¿½AZIPï¿½`ï¿½ï¿½ï¿½Åƒ_ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½hï¿½Aï¿½Kï¿½ï¿½ï¿½Èƒtï¿½Hï¿½ï¿½ï¿½_ï¿½É“Wï¿½Jï¿½ï¿½ï¿½ï¿½B</li>
-<li>ArduinoIDEï¿½É‚ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½Cï¿½uï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½lï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄƒCï¿½ï¿½ï¿½Xï¿½gï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</li>
+<li>ƒR[ƒh‚ðAZIPŒ`Ž®‚Åƒ_ƒEƒ“ƒ[ƒhA“K“–‚ÈƒtƒHƒ‹ƒ_‚É“WŠJ‚·‚éB</li>
+<li>ArduinoIDE‚É‚¨‚¢‚ÄAƒ‰ƒCƒuƒ‰ƒŠƒ}ƒl[ƒWƒƒ‚©‚çˆÈ‰º‚ðŒŸõ‚µ‚ÄƒCƒ“ƒXƒg[ƒ‹‚·‚é</li>
  <ul>
   <li>Adafruit_BusIO</li>
   <li>Adafruit_GFX</li>
   <li>Adafruit_SSD1306</li>
   <li>RDA5807</li>
  </ul>
-<li>ï¿½Ç‰ï¿½ï¿½Ìƒï¿½ï¿½Cï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½AZIPï¿½`ï¿½ï¿½ï¿½Åƒ_ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½hï¿½Aï¿½ï¿½ï¿½Cï¿½uï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½lï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½Xï¿½gï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</li>
+<li>’Ç‰Á‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ðAZIPŒ`Ž®‚Åƒ_ƒEƒ“ƒ[ƒhAƒ‰ƒCƒuƒ‰ƒŠƒ}ƒl[ƒWƒƒ‚©‚çƒCƒ“ƒXƒg[ƒ‹‚·‚é</li>
  <ul>
   <li>TimeLib&nbsp;:&nbsp; https://github.com/PaulStoffregen/Time</li>
  </ul>
-<li>ArduinoIDEï¿½ï¿½ï¿½ï¿½xiao_esp32s3_BLE_clock_radio_RDA5807_master.inoï¿½ï¿½ï¿½Jï¿½ï¿½</li>
-<li>ï¿½uï¿½ï¿½ï¿½ØEï¿½Rï¿½ï¿½ï¿½pï¿½Cï¿½ï¿½ï¿½vï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½Uï¿½Aï¿½uï¿½ï¿½ï¿½Oï¿½ï¿½tï¿½ï¿½ï¿½Ä•Û‘ï¿½ï¿½vï¿½ï¿½ï¿½sï¿½ï¿½</li>
-<li>ï¿½ï¿½Lï¿½ï¿½H/Wï¿½\ï¿½ï¿½ï¿½Aï¿½Ú‘ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ÎƒXï¿½Pï¿½bï¿½`ï¿½Cï¿½ï¿½ï¿½Ì•Kï¿½vï¿½Í‚È‚ï¿½ï¿½B</li>
+<li>ArduinoIDE‚©‚çxiao_esp32s3_BLE_clock_radio_RDA5807_master.ino‚ðŠJ‚­</li>
+<li>uŒŸØEƒRƒ“ƒpƒCƒ‹v‚É¬Œ÷‚µ‚½‚çAˆê’UAu–¼‘O‚ð•t‚¯‚Ä•Û‘¶v‚ðs‚¤</li>
+<li>ã‹L‚ÌH/W\¬AÚ‘±‚Å‚ ‚ê‚ÎƒXƒPƒbƒ`C³‚Ì•K—v‚Í‚È‚¢B</li>
 </ol>
 </p>
-<p><strong>ï¿½áŠ±ï¿½Ì‰ï¿½ï¿½</strong><br>
-ï¿½Eï¿½ï¿½Hï¿½}ï¿½ï¿½RDA5807FPï¿½Ìƒfï¿½[ï¿½^ï¿½Vï¿½[ï¿½gï¿½ï¿½ï¿½Qï¿½Æ‚Ì‚ï¿½ï¿½ÆBLOUTï¿½AROUTï¿½ÌƒRï¿½ï¿½ï¿½fï¿½ï¿½ï¿½Tï¿½ï¿½100ï¿½|200ï¿½ï¿½Fï¿½ï¿½ï¿½xï¿½ï¿½Ú‘ï¿½ï¿½ï¿½ï¿½ï¿½Æ‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½È‚ï¿½B<br>
-&nbsp;&nbsp;ï¿½È‚ï¿½ï¿½Aï¿½ï¿½Hï¿½}ï¿½É‚ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½_ï¿½Nï¿½^ï¿½ï¿½ï¿½Xï¿½nï¿½Ì•ï¿½ï¿½iï¿½Í–ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ì‚·ï¿½ï¿½B<br>
-&nbsp;&nbsp;ï¿½Qï¿½lï¿½Ü‚Å‚ÉŽï¿½ï¿½Û‚É“ï¿½ï¿½ì‚³ï¿½ï¿½ï¿½ï¿½RDA5807FPï¿½ï¿½ï¿½Ì‰ï¿½Hï¿½}ï¿½ï¿½ï¿½ï¿½ï¿½ÉŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
-ï¿½E1ï¿½ï¿½ï¿½ÉŽwï¿½ï¿½Å‚ï¿½ï¿½ï¿½Ô‘gï¿½Ìï¿½ï¿½ï¿½9ï¿½Ü‚Å‚Å‚ï¿½ï¿½ï¿½iï¿½Xï¿½Pï¿½bï¿½`ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½Ä‘ï¿½ï¿½â‚·ï¿½ê‡ï¿½ÍŽï¿½ï¿½ÈÓ”Cï¿½Å‚ï¿½ï¿½è‚¢ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½jï¿½B<br>
-&nbsp;&nbsp;ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½Iï¿½Ç‚Ì”Ô‘gï¿½ð‘±‚ï¿½ï¿½Ä’ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½ÄA1ï¿½Gï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ÅŽwï¿½è‚·ï¿½ï¿½Î‚æ‚¢ï¿½B<br>
-&nbsp;&nbsp;ï¿½È‚ï¿½ï¿½Aï¿½[ï¿½ï¿½0ï¿½ï¿½ï¿½ï¿½ï¿½×‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½Ì—jï¿½ï¿½ï¿½ÉŽwï¿½è‚·ï¿½ï¿½B<br>
+<p><strong>ŽáŠ±‚Ì‰ðà</strong><br>
+E‰ñ˜H}‚ÍRDA5807FP‚Ìƒf[ƒ^ƒV[ƒg‚ðŽQÆ‚Ì‚±‚ÆBLOUTAROUT‚ÌƒRƒ“ƒfƒ“ƒT‚Í100|200ƒÊF’ö“x‚ðÚ‘±‚·‚é‚Æ‰¹Ž¿‚ª—Ç‚­‚È‚éB<br>
+&nbsp;&nbsp;‚È‚¨A‰ñ˜H}‚É‚ ‚éƒCƒ“ƒ_ƒNƒ^ƒ“ƒXŒn‚Ì•”•i‚Í–³‚­‚Ä‚à“®ì‚·‚éB<br>
+&nbsp;&nbsp;ŽQl‚Ü‚Å‚ÉŽÀÛ‚É“®ì‚³‚¹‚½RDA5807FP‰ñ‚è‚Ì‰ñ˜H}‚ð‰º‚ÉŽ¦‚µ‚½B<br>
+E1“ú‚ÉŽw’è‚Å‚«‚é”Ô‘g‚Ì”‚Í9‚Ü‚Å‚Å‚ ‚éiƒXƒPƒbƒ`‚ðC³‚µ‚Ä‘‚â‚·ê‡‚ÍŽ©ŒÈÓ”C‚Å‚¨Šè‚¢‚µ‚Ü‚·jB<br>
+&nbsp;&nbsp;“¯‚¶ƒ‰ƒWƒI‹Ç‚Ì”Ô‘g‚ð‘±‚¯‚Ä’®‚­ê‡‚ÍA•ú‘—ŽžŠÔ‚ð‡ŽZ‚µ‚ÄA1ƒGƒ“ƒgƒŠ‚ÅŽw’è‚·‚ê‚Î‚æ‚¢B<br>
+&nbsp;&nbsp;‚È‚¨A[–é0Žž‚ðŒ×‚¢‚¾•”•ª‚ÍAŽŸ‚Ì—j“ú‚ÉŽw’è‚·‚éB<br>
 <p>
 <img src="./rda5807_connection.png" width="460" height="360"><br>
 </p>
 </p>
-<p><strong>ï¿½ï¿½ï¿½ÓŽï¿½ï¿½ï¿½</strong><br>
-ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ÛØ‚ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Å‚Í‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Ì‚ÅAï¿½ï¿½ï¿½pï¿½ÌÛ‚ÍAï¿½ï¿½ï¿½ÈÓ”Cï¿½Å‚ï¿½ï¿½yï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+<p><strong>’ˆÓŽ–€</strong><br>
+E“®ì‚ð•ÛØ‚·‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Ì‚ÅA—˜—p‚ÌÛ‚ÍAŽ©ŒÈÓ”C‚Å‚¨Šy‚µ‚Ý‚­‚¾‚³‚¢B<br>
 </p>
