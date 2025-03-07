@@ -344,7 +344,8 @@ int setStation(String val1){
     return 4;
   } else {
     //msg = "arguments. ok.";
-    int stn = dayofWeek(instr[0]);
+    String str = instr[0].substring(2,1);
+    int stn = str.toInt();
     if (stn > MAXSTNIDX-1) { msg = "invalid number of stations."; return 4;}
     else {
       // normal process
