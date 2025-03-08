@@ -344,7 +344,7 @@ int setStation(String val1){
     return 4;
   } else {
     //msg = "arguments. ok.";
-    String str = instr[0].substring(2,1);
+    String str = instr[0].substring(3,4);
     int stn = str.toInt();
     if (stn > MAXSTNIDX-1) { msg = "invalid number of stations."; return 4;}
     else {
